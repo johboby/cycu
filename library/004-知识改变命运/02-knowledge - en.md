@@ -1,4 +1,4 @@
-#Can knowledge really change fate?
+# Can knowledge really change fate?
 
 Knowledge changes fate, learning mathematics, physics, and chemistry well, and traveling around the world is not afraid! Are these words very familiar? When we were young, we often listened to what our elders, especially our parents, always told us, but is this really the case?
 
@@ -26,7 +26,7 @@ Moreover, everyone's vision, vision, and mind are limited, and few are more roun
 
 
 
-#Introduction to public welfare units
+# Introduction to public welfare units
 
 **Shanghai Chenyuan Cultural Creativity Co., Ltd., an integrator and reshaper of information data, is committed to promoting the perfect combination of visual art and modern information technology, promoting the construction of new business service models and value conversion, making good creativity and good data truly serve people's production and life, and truly realizing the mission vision of creativity making life better! The field involves design+consulting services, brand design, product design, information services, research data collation, market research, industry research, scientific research and academic discussion, art and cultural propaganda, self media operations, artificial intelligence technology, etc**
 
@@ -42,12 +42,6 @@ Moreover, everyone's vision, vision, and mind are limited, and few are more roun
 
 Official website:
 www.321one.com
-Forum:
-http://cycc.zone.cf
-Shared Blog:
-http://a313136031.zone.cf
-Wiki data:
-http://cycu.zone.cf
 Classification:
 https://johboby.github.io/cycu/
 
