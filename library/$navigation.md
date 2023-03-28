@@ -14,3 +14,4 @@
 
 ##### 知识改变命运
 - [knowledge](?file=004-知识改变命运/01-knowledge "knowledge")
+- [knowledge - en](?file=004-知识改变命运/02-knowledge - en "knowledge - en")
