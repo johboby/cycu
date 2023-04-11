@@ -7,11 +7,8 @@
 ##### 信息美学
 - [第二世界](?file=002-信息美学/01-第二世界 "第二世界")
 - [尘渊文化信息美学](?file=002-信息美学/02-尘渊文化信息美学 "尘渊文化信息美学")
+- [2023年中医药行业市场洞察分析报告](?file=002-信息美学/03-2023年中医药行业市场洞察分析报告 "2023年中医药行业市场洞察分析报告")
 
 ##### 经济
-- [经济观察1](?file=003-经济/01-经济观察1 "经济观察1")
+- [China Economic Observation](?file=003-经济/01-China Economic Observation "China Economic Observation")
 - [市场的秘诀](?file=003-经济/02-市场的秘诀 "市场的秘诀")
-
-##### 知识改变命运
-- [knowledge](?file=004-知识改变命运/01-knowledge "knowledge")
-- [knowledge - en](?file=004-知识改变命运/02-knowledge - en "knowledge - en")
